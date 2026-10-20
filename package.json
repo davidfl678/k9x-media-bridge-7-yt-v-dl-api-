@@ -1,0 +1,15 @@
+{
+  "name": "youtube-redirect-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "youtubei.js": "latest"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

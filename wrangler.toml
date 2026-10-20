@@ -1,4 +1,0 @@
-name = "youtube-redirect-api"
-main = "worker.js"
-compatibility_date = "2026-10-20"
-compatibility_flags = ["nodejs_compat"]
